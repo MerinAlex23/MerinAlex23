@@ -1,16 +1,21 @@
 ### Hi there 👋
 
 
-**MerinAlex23/MerinAlex23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...my Website
-- 🌱 I’m currently learning ...guitar<i class="fas fa-guitar"></i>
-- 👯 I’m looking to collaborate on ...open source projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...me 
-- 📫 How to reach me: ...https://twitter.com/merinalex_vava
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+
+
+- 🔭 I’m currently working on my website
+- 😄 I’m currently learning guitar<i class="fas fa-guitar"></i>
+- 👯 I’m looking to collaborate on open source projects
+
+- 💬 Ask me about me 
+- 📫 How to reach me:
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/merinalex_vava) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/merinalex23/)
+[![Connect on instagram](https://img.shields.io/badge/--instagram?label=intagram&logo=instagram&style=social)](https://www.instagram.com/__merin_alex_chockattu__/)
+
+- 😄 Pronouns: she/her
+
 
