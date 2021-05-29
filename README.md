@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on my website
 - 😄 I’m currently learning guitar<i class="fas fa-guitar"></i>
-- 👯 I’m looking to collaborate on open source projects
+- 👯 I’m looking to collaborate with open source projects
 
 - 💬 Ask me about me 
 - 📫 How to reach me:
