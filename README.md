@@ -8,7 +8,7 @@
 
 
 - 🔭 I’m currently working on my website
-- 😄 I’m currently learning guitar<i class="fas fa-guitar"></i>
+- 🎸 Tune. Play. Repeat
 - 👯 I’m looking to collaborate on open source projects
 
 - 💬 Ask me about me 
