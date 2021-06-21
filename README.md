@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on my website
 - 🎸 Tune. Play. Repeat
-- 👯 I’m looking to collaborate on open source projects
+- 😄 I’m looking to collaborate on open source projects
 
 - 💬 Ask me about me 
 - 📫 How to reach me:
